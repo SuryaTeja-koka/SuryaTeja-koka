@@ -3,7 +3,7 @@
 - 🌱 I’m currently New Technologies and Frameworks that makes me standout from the crowd
 - 💞️ I’m looking to collaborate on any kind of person or company who are passionate in python, Web Development or Networking
 - 📫 You Can reach me on my mail id: tejasurya274@gmail.com.
-- Inorder to know more about my skills you can also my portfolio: https://suryateja-koka.github.io/SuryaTeja.github.io/
+- Inorder to know more about my skills you can also my portfolio: [https://suryateja-koka.github.io/SuryaTeja.github.io/](https://suryateja-koka.github.io/portfolio/)
 
 <!---
 SuryaTeja-koka/SuryaTeja-koka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
