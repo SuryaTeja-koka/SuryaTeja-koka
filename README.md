@@ -55,11 +55,11 @@
 
 #### 🧠 TuringIQ
 
-At [TuringIQ](https://turingiq.ai/about), we empower businesses by guiding them through the intricate terrain of AI adoption, unlocking new opportunities and fostering growth. Our team of experts, with backgrounds at tech giants like Google and PayPal, provides tailored AI solutions to expedite our clients' AI journey, leading to significant advancements in their business operations.
+At [TuringIQ](https://turingiq.ai/), we empower businesses by guiding them through the intricate terrain of AI adoption, unlocking new opportunities and fostering growth. Our team of experts, with backgrounds at tech giants like Google and PayPal, provides tailored AI solutions to expedite our clients' AI journey, leading to significant advancements in their business operations.
 
 #### ✈️ Nalaland
 
-I'm also contributing to the [Nalaland](https://www.nalaland.in/about), officially known as the "Nalaland: Unforgettable Camping Adventures." Explore unique camping sites, luxurious resorts, and thrilling adventure parks with our curated collection of wilderness experiences.
+I'm also contributing to the [Nalaland](https://www.nalaland.in/), officially known as the "Nalaland: Unforgettable Camping Adventures." Explore unique camping sites, luxurious resorts, and thrilling adventure parks with our curated collection of wilderness experiences.
 
 ---
 
