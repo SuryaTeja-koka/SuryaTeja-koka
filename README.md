@@ -49,14 +49,26 @@
 - 🔄 Optimizing async APIs using FastAPI & telemetry instrumentation
 - 🏗️ Building orchestration pipelines with Dagster for model retraining
 - 🌐 Handling full-stack PCI compliance + internal penetration testing
+---
+
+### 🚀 Current Engagements
+
+#### 🧠 TuringIQ
+
+At [TuringIQ](https://turingiq.ai/about), we empower businesses by guiding them through the intricate terrain of AI adoption, unlocking new opportunities and fostering growth. Our team of experts, with backgrounds at tech giants like Google and PayPal, provides tailored AI solutions to expedite our clients' AI journey, leading to significant advancements in their business operations.
+
+#### ✈️ Nalaland
+
+I'm also contributing to the [Nalaland](https://www.nalaland.in/about), officially known as the "Nalaland: Unforgettable Camping Adventures." Explore unique camping sites, luxurious resorts, and thrilling adventure parks with our curated collection of wilderness experiences.
 
 ---
 
-### 📚 Latest from Me
+### 📚 Latest Projects from Me
 
 - ✅ [PCI-DSS compliance guide](#) *(coming soon)*
 - 📊 [PII-Hunter](https://github.com/SuryaTeja-koka/PII-HUNTER)
 - 🎓 [My Udemy courses](https://www.udemy.com/user/surya-teja-koka/)
+- ☕ [Columbuscoffeehouse](https://www.columbuscoffeehouse.com/)
 
 ---
 
