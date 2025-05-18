@@ -61,6 +61,10 @@ At [TuringIQ](https://turingiq.ai/), we empower businesses by guiding them throu
 
 I'm also contributing to the [Nalaland](https://www.nalaland.in/), officially known as the "Nalaland: Unforgettable Camping Adventures." Explore unique camping sites, luxurious resorts, and thrilling adventure parks with our curated collection of wilderness experiences.
 
+#### 🌊 Lakeshore LLC
+I'm engaged with Lakeshore LLC, a U.S.-based company, as a passive contributor and consultant on various projects. Additionally, I am the developer of their official site: [LakeshoreLLC](https://www.lakeshoreitllc.com/.)
+
+
 ---
 
 ### 📚 Latest Projects from Me
