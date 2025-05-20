@@ -87,10 +87,10 @@ I'm engaged with Lakeshore LLC, a U.S.-based company, as a passive contributor a
 - [PCI-DSS compliance guide](#) *(coming soon)*
 - [PII-Hunter](https://github.com/SuryaTeja-koka/PII-HUNTER) - Automated PII detection and classification tool
 - [Secure API Framework](https://github.com/SuryaTeja-koka/secure-api-framework) - Production-ready FastAPI security templates
-
+<!-- 
 #### 📊 Data Engineering
 - [Fraud Detection Pipeline](https://github.com/SuryaTeja-koka/fraud-detection) - Real-time fraud detection system
-- [ETL Orchestration](https://github.com/SuryaTeja-koka/etl-orchestration) - Scalable data pipeline framework
+- [ETL Orchestration](https://github.com/SuryaTeja-koka/etl-orchestration) - Scalable data pipeline framework -->
 
 #### 🎓 Education
 - [Python for Security Engineers](https://www.udemy.com/course/python-for-security-engineers/) - Comprehensive security automation course
