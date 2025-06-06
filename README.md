@@ -84,7 +84,7 @@ I'm engaged with Lakeshore LLC, a U.S.-based company, as a passive contributor a
 ### 📚 Featured Projects
 
 #### 🔒 Security & Compliance
-- [PCI-DSS compliance guide](#) *(coming soon)*
+- [PCI-DSS compliance guide](https://github.com/SuryaTeja-koka/PCI-DSS-Compliance-Guide) - Comprehensive guide for PCI DSS 4.0 compliance
 - [PII-Hunter](https://github.com/SuryaTeja-koka/PII-HUNTER) - Automated PII detection and classification tool
 - [Secure API Framework](https://github.com/SuryaTeja-koka/secure-api-framework) - Production-ready FastAPI security templates
 
